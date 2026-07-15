@@ -1,6 +1,7 @@
 # Compliance-Safety-Dashboard-PowerBI-SQLServer
 
-<img width="880" height="485" alt="Compliance   Safety Dashboard" src="https://github.com/user-attachments/assets/4546cb84-5b7b-4777-bc49-303e8deaaef8" />
+![Compliance and Safety Dashboard Demo](https://github.com/user-attachments/assets/4546cb84-5b7b-4777-bc49-303e8deaaef8)
+
 *Interactive Compliance & Safety Dashboard built in Power BI*
 
 
@@ -21,31 +22,36 @@ The goal was to create a clear overview of key compliance risks, including actio
 
 * **SQL Server Data Loading & Validation:** I imported the synthetic housing compliance CSV files into SQL Server and checked that all tables loaded correctly before reporting.
 
-<img width="245" height="178" alt="sql_record_counts" src="https://github.com/user-attachments/assets/8f5223f9-d4f5-4909-9266-c5265ee2eca3" />
+![SQL Server Record Count Validation](https://github.com/user-attachments/assets/8f5223f9-d4f5-4909-9266-c5265ee2eca3)
+
 *SQL Server record count validation*
 
 
 * **Data Quality Review:** I reviewed certificate types and raw compliance statuses to understand the structure of the data and identify inconsistent status values before cleaning.
 
-<img width="1275" height="653" alt="sql_raw_status_check" src="https://github.com/user-attachments/assets/f862eb31-76dc-4e86-8cb9-23c67e6c132a" />
+![Raw Compliance Status Review](https://github.com/user-attachments/assets/f862eb31-76dc-4e86-8cb9-23c67e6c132a)
+
 *Reviewing raw compliance statuses in SQL Server*
 
 
 * **Power Query Cleaning:** I standardised inconsistent compliance status values into a cleaner reporting field called `ComplianceStatusClean`, making the data easier to use in the dashboard.
 
-<img width="1339" height="531" alt="power_query_profiling" src="https://github.com/user-attachments/assets/90426586-8350-4ea9-b59d-a4fad3415cf2" />
+![Power Query Cleaning and Column Profiling](https://github.com/user-attachments/assets/90426586-8350-4ea9-b59d-a4fad3415cf2)
+
 *Power Query cleaning and column profiling*
 
 
 * **Data Modelling:** I structured the Power BI model using fact and dimension tables, connecting compliance and repair records to property and contractor information.
 
-<img width="852" height="496" alt="Data_model" src="https://github.com/user-attachments/assets/f99b2fcb-b1b2-4f19-a8b8-546aa25358b2" />
+![Power BI Data Model](https://github.com/user-attachments/assets/f99b2fcb-b1b2-4f19-a8b8-546aa25358b2)
+
 *Power BI data model with fact and dimension tables*
 
 
 * **Dashboard Design:** I created an interactive Power BI dashboard with KPI cards, compliance status breakdown, action-required records by borough and filters for certificate type and borough.
 
-<img width="879" height="491" alt="Dashboard_overview" src="https://github.com/user-attachments/assets/604bed66-6991-4661-afc0-f8eeacaa50e6" />
+![Compliance & Safety Dashboard Overview](https://github.com/user-attachments/assets/604bed66-6991-4661-afc0-f8eeacaa50e6)
+
 *Compliance & Safety Dashboard Overview*
 
 
@@ -55,8 +61,6 @@ The goal was to create a clear overview of key compliance risks, including actio
 Power BI Desktop, Power Query, DAX, SQL Server Management Studio, SQL Server, CSV files.
 
 
-
-## Outcome
 
 ## Outcome
 
