@@ -1,6 +1,6 @@
 # Compliance-Safety-Dashboard-PowerBI-SQLServer
 
-![Compliance and Safety Dashboard Demo](https://github.com/user-attachments/assets/PASTE-YOUR-GIF-LINK-HERE)
+<img width="880" height="485" alt="Compliance   Safety Dashboard" src="https://github.com/user-attachments/assets/4546cb84-5b7b-4777-bc49-303e8deaaef8" />
 *Interactive Compliance & Safety Dashboard built in Power BI*
 
 
