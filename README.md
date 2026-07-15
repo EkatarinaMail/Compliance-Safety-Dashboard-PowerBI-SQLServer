@@ -43,11 +43,6 @@ The goal was to create a clear overview of key compliance risks, including actio
 
 * **Data Modelling:** I structured the Power BI model using fact and dimension tables, connecting compliance and repair records to property and contractor information.
 
-![Power BI Data Model](https://github.com/user-attachments/assets/f99b2fcb-b1b2-4f19-a8b8-546aa25358b2)
-
-*Power BI data model with fact and dimension tables*
-
-
 * **Dashboard Design:** I created an interactive Power BI dashboard with KPI cards, compliance status breakdown, action-required records by borough and filters for certificate type and borough.
 
 ![Compliance & Safety Dashboard Overview](https://github.com/user-attachments/assets/604bed66-6991-4661-afc0-f8eeacaa50e6)
