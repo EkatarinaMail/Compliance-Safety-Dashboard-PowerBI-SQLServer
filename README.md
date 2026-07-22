@@ -72,6 +72,6 @@ It highlights:
 
 This project demonstrates practical housing data analysis, compliance monitoring, data quality checks and Power BI dashboard design.
 
-## Next Steps & Related Projects
+## Related Projects
 
 * **Data Validation Audit (Excel):** To see how this same dataset (210 properties, 1,758 compliance records) was audited for data quality and integrity to validate the underlying compliance records and identify data quality issues before reporting, check out my [Compliance Data Validation Audit in Excel](https://github.com/EkatarinaMail/-Compliance-Data-Validation-Audit-Excel).
