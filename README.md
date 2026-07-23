@@ -1,4 +1,4 @@
-# Compliance-Safety-Dashboard-PowerBI-SQLServer
+# Compliance & Safety Dashboard
 
 ![Compliance and Safety Dashboard Demo](https://github.com/user-attachments/assets/4546cb84-5b7b-4777-bc49-303e8deaaef8)
 
