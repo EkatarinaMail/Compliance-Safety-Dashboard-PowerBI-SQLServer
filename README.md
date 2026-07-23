@@ -77,4 +77,4 @@ This project demonstrates practical housing data analysis, compliance monitoring
 
 I used the same dataset in a separate Excel audit to test data quality before reporting:
 
-[View the Compliance Data Validation Audit — Excel](https://github.com/EkatarinaMail/Compliance-Data-Validation-Audit-Excel)
+[View the Compliance Data Validation Audit Excel](https://github.com/EkatarinaMail/Compliance-Data-Validation-Audit-Excel)
