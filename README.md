@@ -74,6 +74,7 @@ This project demonstrates practical housing data analysis, compliance monitoring
 
 ## Related Projects
 
-* **Data Validation Audit (Excel):** I used the same dataset of 210 properties and 1,758 compliance records to identify data quality issues before reporting. View my[Compliance Data Validation Audit in Excel](https://github.com/EkatarinaMail/-Compliance-Data-Validation-Audit-Excel).
 
-  
+I used the same dataset in a separate Excel audit to test data quality before reporting:
+
+[View the Compliance Data Validation Audit — Excel](https://github.com/EkatarinaMail/Compliance-Data-Validation-Audit-Excel)
