@@ -5,7 +5,6 @@
 *Interactive Compliance & Safety Dashboard built in Power BI*
 
 
-
 ## Project Overview
 
 This project demonstrates how housing compliance data can be cleaned, structured and visualised to monitor safety risks across a UK housing portfolio.
@@ -17,7 +16,6 @@ I loaded the CSV files into SQL Server, validated record counts, reviewed certif
 The goal was to create a clear overview of key compliance risks, including action-required records, upcoming renewals, evidence gaps and borough-level risk patterns.
 
 
-
 ## Key Skills Demonstrated
 
 * **SQL Server Data Loading & Validation:** I imported the synthetic housing compliance CSV files into SQL Server and checked that all tables loaded correctly before reporting.
@@ -26,20 +24,17 @@ The goal was to create a clear overview of key compliance risks, including actio
 
 *SQL Server record count validation*
 
-
 * **Data Quality Review:** I reviewed certificate types and raw compliance statuses to understand the structure of the data and identify inconsistent status values before cleaning.
 
 ![Raw Compliance Status Review](https://github.com/user-attachments/assets/f862eb31-76dc-4e86-8cb9-23c67e6c132a)
 
 *Reviewing raw compliance statuses in SQL Server*
 
-
 * **Power Query Cleaning:** I standardised inconsistent compliance status values into a cleaner reporting field called `ComplianceStatusClean`, making the data easier to use in the dashboard.
 
 ![Power Query Cleaning and Column Profiling](https://github.com/user-attachments/assets/90426586-8350-4ea9-b59d-a4fad3415cf2)
 
 *Power Query cleaning and column profiling*
-
 
 * **Data Modelling:** I structured the Power BI model using fact and dimension tables, connecting compliance and repair records to property and contractor information.
 
@@ -50,18 +45,16 @@ The goal was to create a clear overview of key compliance risks, including actio
 *Compliance & Safety Dashboard Overview*
 
 
-
 ## Tools Used
 
 Power BI Desktop, Power Query, DAX, SQL Server Management Studio, SQL Server, CSV files.
 
 
-
 ## Outcome
 
-The final dashboard provides a clear overview of compliance performance across a West London housing portfolio.
+The final dashboard provided a clear overview of compliance performance across a West London housing portfolio.
 
-It highlights:
+It highlighted:
 
 * 210 properties monitored
 * 1,758 compliance records
@@ -70,11 +63,14 @@ It highlights:
 * 81 evidence gaps
 * Borough-level patterns in action-required records
 
+The dashboard showed where the main compliance risks were concentrated and supported clearer monitoring of property safety performance.
+
 This project demonstrates practical housing data analysis, compliance monitoring, data quality checks and Power BI dashboard design.
+
 
 ## Related Projects
 
+[View the Compliance Data Validation Audit - Excel](https://github.com/EkatarinaMail/Compliance-Data-Validation-Audit-Excel)
 
-I used the same dataset in a separate Excel audit to test data quality before reporting:
+[View the Housing Data Reconciliation & Exception Audit - Excel](https://github.com/EkatarinaMail/Housing-Data-Reconciliation-Exception-Audit-Excel)
 
-View the [Compliance Data Validation Audit Excel](https://github.com/EkatarinaMail/Compliance-Data-Validation-Audit-Excel)
